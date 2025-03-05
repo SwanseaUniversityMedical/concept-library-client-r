@@ -26,7 +26,7 @@ Tags object, inheriting from ConceptLibraryClient::Endpoint - allows
 \if{html}{\out{
 <details open><summary>Inherited methods</summary>
 <ul>
-<li><span class="pkg-link" data-pkg="ConceptLibraryClient" data-topic="Endpoint" data-id="initialize"><a href='../../ConceptLibraryClient/html/Endpoint.html#method-Endpoint-initialize'><code>ConceptLibraryClient::Endpoint$initialize()</code></a></li>
+<li><span class="pkg-link" data-pkg="ConceptLibraryClient" data-topic="Endpoint" data-id="initialize"><a href='../../ConceptLibraryClient/html/Endpoint.html#method-Endpoint-initialize'><code>ConceptLibraryClient::Endpoint$initialize()</code></a></span></li>
 </ul>
 </details>
 }}
