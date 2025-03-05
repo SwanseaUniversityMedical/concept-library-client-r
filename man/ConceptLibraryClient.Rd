@@ -2,6 +2,7 @@
 % Please edit documentation in R/ConceptLibraryClient.R
 \docType{package}
 \name{ConceptLibraryClient}
+\alias{ConceptLibraryClient-package}
 \alias{ConceptLibraryClient}
 \title{ConceptLibraryClient: A Concept Library API Client}
 \description{
@@ -84,3 +85,14 @@ stored in the Concept Library.
 }
 }
 
+\author{
+\strong{Maintainer}: Dan Thayer \email{d.s.thayer@swansea.ac.uk}
+
+Authors:
+\itemize{
+  \item Etienne Badoche \email{e.c.a.badoche@swansea.ac.uk}
+  \item Ieuan Scanlon \email{ieuan.scanlon@swansea.ac.uk}
+  \item Jack Scanlon \email{j.a.scanlon@swansea.ac.uk}
+}
+
+}

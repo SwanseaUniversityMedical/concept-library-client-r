@@ -53,6 +53,8 @@ phenotype_detail = client$phenotypes$get('PH1', version_id=2)
 \item{\code{tags}}{(ConceptLibraryClient::Tags) Tags instance}
 
 \item{\code{datasources}}{(ConceptLibraryClient::Datasources) Datasources instance}
+
+\item{\code{ontology}}{(ConceptLibraryClient::Ontology) Ontology instance}
 }
 \if{html}{\out{</div>}}
 }
